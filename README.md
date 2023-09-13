@@ -1,7 +1,7 @@
 # Hi there, I'm Kewal! <img src="https://media.giphy.com/media/uKfYFQ3Ga79AY/giphy.gif" width="50"/>
 
 <a href="https://www.linkedin.com/in/kewal-b-11823916a/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kewal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br/>
 
 <!--
